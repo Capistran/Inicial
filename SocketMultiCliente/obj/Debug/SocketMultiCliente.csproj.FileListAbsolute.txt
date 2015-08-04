@@ -1,0 +1,8 @@
+c:\users\tecnologias vr\documents\visual studio 2013\Projects\SocketMultiCliente\SocketMultiCliente\bin\Debug\SocketMultiCliente.exe.config
+c:\users\tecnologias vr\documents\visual studio 2013\Projects\SocketMultiCliente\SocketMultiCliente\bin\Debug\SocketMultiCliente.exe
+c:\users\tecnologias vr\documents\visual studio 2013\Projects\SocketMultiCliente\SocketMultiCliente\bin\Debug\SocketMultiCliente.pdb
+c:\users\tecnologias vr\documents\visual studio 2013\Projects\SocketMultiCliente\SocketMultiCliente\obj\Debug\SocketMultiCliente.exe
+c:\users\tecnologias vr\documents\visual studio 2013\Projects\SocketMultiCliente\SocketMultiCliente\obj\Debug\SocketMultiCliente.pdb
+C:\Users\Tecnologias VR\Desktop\prueba2\SocketMultiCliente\bin\Debug\SocketMultiCliente.exe.config
+C:\Users\Tecnologias VR\Desktop\prueba2\SocketMultiCliente\obj\Debug\SocketMultiCliente.exe
+C:\Users\Tecnologias VR\Desktop\prueba2\SocketMultiCliente\obj\Debug\SocketMultiCliente.pdb
