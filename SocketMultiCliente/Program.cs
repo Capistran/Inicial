@@ -12,7 +12,7 @@ namespace SocketMultiCliente
 {
     public class StateObject
     {
-        // Client  socket.
+        // Client  socket.   
         public Socket workSocket = null;
         // Size of receive buffer.
         public const int BufferSize = 1024;
